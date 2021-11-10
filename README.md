@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandruyash&label=Profile%20views&color=0e75b6&style=flat" alt="nandruyash" /> </p>
 
 <p align="left"> <a href="https://twitter.com/psn50016445" target="blank"><img src="https://img.shields.io/twitter/follow/psn50016445?logo=twitter&style=for-the-badge" alt="psn50016445" /></a> </p>
-
+<img align="right" alt="GIF" height="500px"  src="https://hotshotmarketer.in/wp-content/uploads/2020/07/how-to-become-a-freelancer.gif"   />
 - 🌱 I’m currently learning **C++**
-
+                                           
 - 👯 I’m looking to collaborate on **Github**
 
 - 💬 Ask me about **C,C++**
@@ -25,3 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandruyash&show_icons=true&locale=en&layout=compact" alt="nandruyash" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandruyash&show_icons=true&locale=en" alt="nandruyash" /></p>
+
