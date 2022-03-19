@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Nandru Yashaswini</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandruyash&label=Profile%20views&color=0e75b6&style=flat" alt="nandruyash" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/psn50016445" target="blank"><img src="https://img.shields.io/twitter/follow/psn50016445?logo=twitter&style=for-the-badge" alt="psn50016445" /></a> </p>
 - 🌱 I’m currently learning **C++**
